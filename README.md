@@ -1,2 +1,3 @@
-learn golang
-learn to use go module
+- learn golang
+- learn to use go module
+
