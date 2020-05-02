@@ -2,6 +2,8 @@
 - learn to use go module
 
 目录结构：
+
+```
 ├── README.md
 ├── go.mod
 ├── go.sum
@@ -13,5 +15,7 @@
 │       └── a11.go
 └── pkg2
     └── a2.go
+```
 
 本地包有pkg1，pkg2，pkg11
+
